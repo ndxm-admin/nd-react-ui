@@ -1,2 +1,2 @@
 # nd-react-ui
-an ui library using react.js
+an ui library base on react.js
